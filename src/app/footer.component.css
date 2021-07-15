@@ -1,0 +1,28 @@
+ .footer {
+  position: fixed;
+  padding : 5px;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color:lightgrey;
+  color:black;
+  text-align: left;
+}
+.fa {
+  padding: 7px;
+  font-size: 5px;
+  width: 7px;
+  text-align: center;
+  text-decoration: none;
+ display:inline-flex;
+}
+
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+ul li {
+  display:inline-flex;
+  padding-left: 10px;
+}
+
